@@ -12,5 +12,5 @@ Thank you…. JBS
 
 ---
 
-Let's get social: <a href="https://www.linkedin.com/in/jonaidsharif/"> <img
-            src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn" /></a>
+Let's get social: 
+<a href="https://www.linkedin.com/in/jonaidsharif/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn" /></a>
