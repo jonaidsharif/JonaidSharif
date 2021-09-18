@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-jonaidsharif-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonaidsharif/)](https://www.linkedin.com/in/jonaidsharif/) [![Github Badge](https://img.shields.io/badge/-jonaidsharif-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jonaidsharif/)](https://www.github.com/jonaidsharif/) ![Profile views](https://gpvc.arturio.dev/jonaidsharif)
+
 
 **jonaidsharif/JonaidSharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +14,3 @@ Thank you…. JBS
 
 ---
 
-Let's get social: 
-<a href="https://www.linkedin.com/in/jonaidsharif/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn" /></a>
