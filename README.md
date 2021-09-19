@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Dev Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://www.https://dev.to/jonaidsharif/)![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@jonaidsharif)
+![Dev Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://www.https://dev.to/jonaidsharif/) ![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@jonaidsharif)
 
 [![Linkedin Badge](https://img.shields.io/badge/-jonaidsharif-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonaidsharif/)](https://www.linkedin.com/in/jonaidsharif/) [![Github Badge](https://img.shields.io/badge/-jonaidsharif-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jonaidsharif/)](https://www.github.com/jonaidsharif/) ![Profile views](https://gpvc.arturio.dev/jonaidsharif)
 
