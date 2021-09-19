@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-jonaidsharif-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonaidsharif/)](https://www.linkedin.com/in/jonaidsharif/) [![Jonaify Badge](website-up-down-green-red/http/jonaify.com.svg website:http://jonaify.com/) ![Profile views](https://gpvc.arturio.dev/jonaidsharif)
+[![Linkedin Badge](https://img.shields.io/badge/-jonaidsharif-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonaidsharif/)](https://www.linkedin.com/in/jonaidsharif/) ![Profile views](https://gpvc.arturio.dev/jonaidsharif)
 
 
 **jonaidsharif/JonaidSharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
