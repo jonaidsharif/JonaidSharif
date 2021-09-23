@@ -1,10 +1,10 @@
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jonaify.com/) [![Linkedin Badge](https://img.shields.io/badge/-jonaidsharif-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonaidsharif/)](https://www.linkedin.com/in/jonaidsharif/) ![Profile views](https://gpvc.arturio.dev/jonaidsharif) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/jonaid_sharif/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jonaify.com/) [![Linkedin Badge](https://img.shields.io/badge/-jonaidsharif-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonaidsharif/)](https://www.linkedin.com/in/jonaidsharif/) ![Profile views](https://gpvc.arturio.dev/jonaidsharif) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/jonaid_sharif/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/jonaidsharif)
 
 **jonaidsharif/JonaidSharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ---
 
-Hi. I’m Jonaid Sharif. I build lots of demos on these templates and the @jonaidsharif profile portfolio website. Most of them are spending time on programming contests and bug finding, besides learning Cyber Security. 
+Hi. I’m <a href="https://jonaify.com" target="_blank">@Jonaid Sharif</a>. I build lots of demos on these templates and the @jonaidsharif profile portfolio website. Most of them are spending time on programming contests and bug finding, besides learning Cyber Security. 
 I work at seldev academy as a Junior Web Developer. For more information about me (and a whole lot of shenanigans), check out jonaid.com.
 Thank you…. JBS
 
