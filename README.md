@@ -1,10 +1,3 @@
-![alt text](https://github.com/[jonaidsharif]/[jonaidsharif]/blob/[Icon]/JonaidCover.png?raw=true)
-
-<img src="https://github.com/JonaidSharif/JonaidSharif/main/Icon/JonaidCover.png" alt="jonaid" width="300" height="300">
-
-![Screenshot 2020-02-09 at 5 08 54 PM](https://user-images.githubusercontent.com/33011208/JonaidCover.png)
-
-
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jonaify.com/) [![Linkedin Badge](https://img.shields.io/badge/-jonaidsharif-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonaidsharif/)](https://www.linkedin.com/in/jonaidsharif/) ![Profile views](https://gpvc.arturio.dev/jonaidsharif) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/jonaid_sharif/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/jonaidsharif)
 
 **jonaidsharif/JonaidSharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
