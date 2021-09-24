@@ -2,7 +2,7 @@
 
 **jonaidsharif/JonaidSharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a align="centre" href="https://github.com/jonaidsharif/JonaidSharif/blob/main/Resume/Jonaid.pdf" download rel="noopener noreferrer" target="_blank">Resume</a>
+<a align="centre" href="https://drive.google.com/uc?export=download&id=12_SCCqhcfL-IKUC9C5CNZQj-Z-B-naQi" download rel="noopener noreferrer" target="_blank">Resume</a>
 
 
 ---
