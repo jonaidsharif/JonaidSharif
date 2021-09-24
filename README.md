@@ -1,3 +1,5 @@
+![alt text](https://github.com/[jonaidsharif]/[jonaidsharif]/blob/[Icon]/jonaidcover.jpg?raw=true)
+
 <img src="https://github.com/JonaidSharif/JonaidSharif/main/icon/jonaidcover.png" alt="jonaid cover" width="300" height="300">
 
 
