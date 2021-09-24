@@ -1,5 +1,4 @@
-# [![wJonaid Sharif header](https://raw.githubusercontent.com/JonaidSharif/JonaidSharif/main/icon/jonaidcover.png)](https://jonaify.com)
-
+<img src="https://raw.githubusercontent.com/JonaidSharif/JonaidSharif/main/icon/jonaidcover.png" alt="jonaid cover" width="300" height="300">
 
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jonaify.com/) [![Linkedin Badge](https://img.shields.io/badge/-jonaidsharif-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonaidsharif/)](https://www.linkedin.com/in/jonaidsharif/) ![Profile views](https://gpvc.arturio.dev/jonaidsharif) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/jonaid_sharif/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/jonaidsharif)
