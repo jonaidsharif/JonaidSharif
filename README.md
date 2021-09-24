@@ -2,6 +2,9 @@
 
 **jonaidsharif/JonaidSharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a align="centre" href="https://github.com/jonaidsharif/JonaidSharif/blob/main/Resume/Jonaid.pdf" download rel="noopener noreferrer" target="_blank">Resume</a>
+
+
 ---
 
 Hi. I’m <a href="https://jonaify.com" target="_blank">@Jonaid Sharif</a>. I build lots of demos on these templates and the @jonaidsharif profile portfolio website. Most of them are spending time on programming contests and bug finding, besides learning Cyber Security. 
@@ -29,8 +32,5 @@ Thank you…. JBS
 | <a href="https://github.com/jonaidsharif/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jonaidsharif&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="jonaid's github stats" /></a> | <a href="https://github.com/jonaidsharif/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaidsharif&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<a href="https://github.com/jonaidsharif/JonaidSharif/blob/main/Resume/Jonaid.pdf" download rel="noopener noreferrer" target="_blank">
-   Download File
-</a>
 
 ![Dev Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://www.https://dev.to/jonaidsharif/) ![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@jonaidsharif) 
