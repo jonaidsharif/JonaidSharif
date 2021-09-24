@@ -1,6 +1,6 @@
 ![alt text](https://github.com/[jonaidsharif]/[jonaidsharif]/blob/[Icon]/JonaidCover.png?raw=true)
 
-<img src="https://github.com/JonaidSharif/JonaidSharif/main/icon/JonaidCover.png" alt="jonaid cover" width="300" height="300">
+<img src="https://github.com/JonaidSharif/JonaidSharif/main/Icon/JonaidCover.png" alt="jonaid" width="300" height="300">
 
 ![Screenshot 2020-02-09 at 5 08 54 PM](https://user-images.githubusercontent.com/33011208/JonaidCover.png)
 
