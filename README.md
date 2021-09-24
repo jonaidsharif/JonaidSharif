@@ -30,6 +30,6 @@ Thank you…. JBS
 | ------------- | ------------- |
 
 
-
+<a href="./Resume/jonaid.pdf" download="resume">Download</a>
 
 ![Dev Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://www.https://dev.to/jonaidsharif/) ![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@jonaidsharif) 
