@@ -11,6 +11,8 @@ Hi. I’m <a href="https://jonaify.com" target="_blank">@Jonaid Sharif</a>. I bu
 I work at seldev academy as a Junior Web Developer. For more information about me (and a whole lot of shenanigans), check out jonaid.com.
 Thank you…. JBS
 
+<!-- [![Header](https://img.search.brave.com/rvUj-4w4gORSmRBVP9aVxDsqz3dWyCtEoOS5KmitwfM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzE2MDAvMCpD/LWNQUDlEMk1JeWVl/eEFULmdpZg.gif)](https://jonaidsharif.io) -->
+
 ---
 
 ### My Stacks
