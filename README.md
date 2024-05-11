@@ -5,11 +5,13 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jonaify.com/) [![Linkedin Badge](https://img.shields.io/badge/-jonaidsharif-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonaidsharif/)](https://www.linkedin.com/in/jonaidsharif/) ![Profile views](https://komarev.com/ghpvc/?username=your-github-jonaidsharif&abbreviated=true) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/jonaid_sharif/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/jonaidsharif)
 
 ---
+
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="300">
 <img src="https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/assets/98406068/7c87ca81-704e-4d14-8d8d-baf03327ac7a" width="250">
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="250">
 </div>
+
 ---
 
 <a align="centre" href="https://drive.google.com/uc?export=download&id=12_SCCqhcfL-IKUC9C5CNZQj-Z-B-naQi" download rel="noopener noreferrer" target="_blank">Resume</a>
