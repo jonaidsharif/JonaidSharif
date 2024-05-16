@@ -18,9 +18,7 @@
 
 ---
 
-Hi. I’m <a href="https://jonaify.com" target="_blank">@Jonaid Sharif</a>. I build lots of demos on these templates and the @jonaidsharif profile portfolio website. Most of them are spending time on programming contests and bug finding, besides learning Cyber Security. 
-I work at seldev academy as a Junior Web Developer. For more information about me (and a whole lot of shenanigans), check out jonaid.com.
-Thank you…. JBS
+Hello, I am Jonaid Sharif, a front-end developer with experience in Machine Learning. I have a strong background in creating intuitive, responsive web interfaces using HTML, CSS, and JavaScript frameworks like React and Angular. My passion for Machine Learning has led me to work on various projects involving data analysis, predictive modeling, and algorithm development using Python and libraries like TensorFlow and scikit-learn. I enjoy combining my front-end development skills with Machine Learning to create innovative, data-driven applications. Recently, I uploaded some of my projects, showcasing my ability to merge these two fields effectively.
 
 <!-- [![Header](https://img.search.brave.com/rvUj-4w4gORSmRBVP9aVxDsqz3dWyCtEoOS5KmitwfM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzE2MDAvMCpD/LWNQUDlEMk1JeWVl/eEFULmdpZg.gif)](https://jonaidsharif.io) -->
 
