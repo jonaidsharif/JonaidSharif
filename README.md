@@ -33,8 +33,8 @@ Recently, I’ve uploaded some of my project work, demonstrating how I effective
 <img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-151515?style=for-the-badge&logo=mysql&logoColor=79740e&labelColor=151515)
 
 ## My Handles
- [<img src="https://img.shields.io/badge/JonaidSharif-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/JonaidSharif-394332156/)
- [<img src="https://img.shields.io/badge/JonaidSharif-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/JonaidSharif) 
+ [<img src="https://img.shields.io/badge/JonaidSharif-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/JonaidSharif/)
+ [<img src="https://img.shields.io/badge/JonaidSharif-151515?style=for-the-badge&logo=SVG&logoColor=79740e">]([https://profile-summary-for-github.com/user/JonaidSharif](https://github.com/jonaidsharif)) 
  [<img src="https://img.shields.io/badge/Jonaid-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/Jonaid) 
  [<img src="https://img.shields.io/badge/JonaidSharif-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/JonaidSharif) 
 
