@@ -18,7 +18,9 @@
 
 ---
 
-Hello, I am Jonaid Sharif, a front-end developer with experience in Machine Learning. I have a strong background in creating intuitive, responsive web interfaces using HTML, CSS, and JavaScript frameworks like React and Angular. My passion for Machine Learning has led me to work on various projects involving data analysis, predictive modeling, and algorithm development using Python and libraries like TensorFlow and scikit-learn. I enjoy combining my front-end development skills with Machine Learning to create innovative, data-driven applications. Recently, I uploaded some of my projects, showcasing my ability to merge these two fields effectively.
+Hi, I’m Jonaid Sharif — a Junior QA Automation Engineer skilled in JavaScript and Python. I specialize in API testing, bug detection, and load testing, and I’m proficient with tools like Postman, JMeter, and Selenium. My passion for quality assurance has driven me to work on diverse projects where I’ve applied automation and performance testing techniques to ensure robust software delivery.
+
+Recently, I’ve uploaded some of my project work, demonstrating how I effectively blend coding with real-world QA practices. I’m excited to connect and share more about how I approach testing with both precision and creativity.
 
 <!-- [![Header](https://img.search.brave.com/rvUj-4w4gORSmRBVP9aVxDsqz3dWyCtEoOS5KmitwfM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzE2MDAvMCpD/LWNQUDlEMk1JeWVl/eEFULmdpZg.gif)](https://jonaidsharif.io) -->
 
