@@ -13,12 +13,12 @@
 
 ---
 
-<a align="centre" href="https://drive.google.com/uc?export=download&id=12_SCCqhcfL-IKUC9C5CNZQj-Z-B-naQi" download rel="noopener noreferrer" target="_blank">Resume</a>
+<a align="centre" href="[https://drive.google.com/uc?export=download&id=12_SCCqhcfL-IKUC9C5CNZQj-Z-B-naQi](https://drive.google.com/file/d/1m7UNRc7g4YhtIsHgl6QP4iIr0z9XA1v1/view?usp=sharing)" download rel="noopener noreferrer" target="_blank">Resume</a>
 
 
 ---
 
-Hi, I’m Jonaid Sharif — a Junior QA Automation Engineer skilled in JavaScript and Python. I specialize in API testing, bug detection, and load testing, and I’m proficient with tools like Postman, JMeter, and Selenium. My passion for quality assurance has driven me to work on diverse projects where I’ve applied automation and performance testing techniques to ensure robust software delivery.
+Hi, I’m Jonaid Sharif and a Junior QA Automation Engineer skilled in JavaScript and Python. I specialize in API testing, bug detection, and load testing, and I’m proficient with tools like Postman, JMeter, and Selenium. My passion for quality assurance has driven me to work on diverse projects where I’ve applied automation and performance testing techniques to ensure robust software delivery.
 
 Recently, I’ve uploaded some of my project work, demonstrating how I effectively blend coding with real-world QA practices. I’m excited to connect and share more about how I approach testing with both precision and creativity.
 
